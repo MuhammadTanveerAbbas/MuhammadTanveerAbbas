@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on:<br>Projects that involve both frontend and backend development, focusing on building modern and user-friendly web applications.<br><br>👯 I’m looking to collaborate on:<br>Web development projects that use the latest technologies and involve working with skilled professionals to create amazing results.<br><br>🤝 I’m seeking assistance with:<br>Learning new technologies in the AI space and understanding how to use them in practical projects.<br><br>🌱 I’m currently learning:<br>DevOps practices to improve how I develop and deploy applications more efficiently.<br><br>💬 Ask me about:<br>Web development, full-stack development, and anything related to my work as a developer.</p>
+<p align="center">
+I'm a Full Stack Web Developer passionate about building modern, user-friendly web applications.
+I work in both frontend and backend development, creating digital experiences that are functional, visually appealing, and efficient.
+</p>
 
 ###
 

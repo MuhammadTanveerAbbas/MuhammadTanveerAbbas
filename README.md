@@ -1,40 +1,60 @@
 <!-- ====================
-     GitHub Profile Banner
+    GitHub Profile Banner
 ==================== -->
 <p align="center">
   <img 
-    src="https://i.postimg.cc/43BYcQXW/Github-banner.png" 
-    alt="Tanveer's GitHub Banner" 
-    style="max-width: 100%; height: auto;" 
+    src="https://i.postimg.cc/ZqQK53zq/github-header.png" 
+    alt="Tanveer Abbas | GitHub Profile Banner" 
   />
 </p>
 
 <!-- ====================
-       Profile Header
+        About Me
 ==================== -->
-<h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="Cool Emoji" />
-  Hi, I’m Tanveer
-</h1>
-<p align="center"><em>Full Stack Developer | Business Website Architect</em></p>
+<h3 align="center">💼 Business-Focused Developer</h3>
 
-<!-- ====================
-       About Me
-==================== -->
 <p align="center">
-  Building fast, scalable, and business-focused web solutions.<br/>
-  Delivering clean code, reusable components, and production-grade systems.
+  I transform complex business requirements into elegant, high-performance web solutions that drive measurable results.<br/>
 </p>
 
+<hr>
+
 <!-- ====================
-     Tech Stack & Tools
+    Tech Stack & Tools
 ==================== -->
-<h3 align="center">🛠 Tech Stack & Tools</h3>
+<h3 align="center">🛠️ My Production-Ready Tech Stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,git,github,vscode,figma" alt="Tech Stack"/>
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui" alt="Frontend Stack" />
 </p>
 
+<p align="center">
+  <strong>Backend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,appwrite,npm" alt="Backend Stack" />
+</p>
+
+<p align="center">
+  <strong>DevOps & Deployment</strong><br/>
+  <img src="https://skillicons.dev/icons?i=linux,mint,git,github,githubactions,vercel,netlify" alt="DevOps Stack" />
+</p>
+
+<p align="center">
+  <strong>Tools & Platforms</strong><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress,notion" alt="Tools & Platforms" />
+</p>
+<hr>
 <!-- ====================
      Connect With Me
 ==================== -->
-<h3 align="center">📫 Connect With Me</h3>
+<h3 align="center">🔗 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/MuhammadTanveerAbbas">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:muhammadtanveerabbas.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>

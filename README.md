@@ -11,7 +11,7 @@
 <!-- ====================
     Tech Stack & Tools
 ==================== -->
-<h3 align="center">🧰 My Production-Ready Tech Stack</h3>
+<h3 align="center"> My Tech Stack 👾 </h3>
 
 <table align="center">
   <tr>

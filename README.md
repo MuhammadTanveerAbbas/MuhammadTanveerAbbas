@@ -26,7 +26,7 @@
 
 <p align="center">
   <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 
 <p align="center">
   <strong>DevOps & Deployment</strong><br/>
-  <img src="https://skillicons.dev/icons?i=linux,mint,git,github,githubactions,vercel,netlify" alt="DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vercel,netlify" alt="DevOps Stack" />
 </p>
 
 <p align="center">

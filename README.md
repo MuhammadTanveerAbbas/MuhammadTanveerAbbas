@@ -41,7 +41,7 @@
 
 <p align="center">
   <strong>Tools & Platforms</strong><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress,notion" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress" alt="Tools & Platforms" />
 </p>
 <hr>
 <!-- ====================

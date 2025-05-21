@@ -4,46 +4,39 @@
 <p align="center">
   <img 
     src="https://i.postimg.cc/ZqQK53zq/github-header.png" 
-    alt="Tanveer Abbas | GitHub Profile Banner" 
+    alt="Muhammad Tanveer Abbas | GitHub Profile Banner" 
   />
 </p>
 
 <!-- ====================
-        About Me
-==================== -->
-<h3 align="center">💼 Business-Focused Developer</h3>
-
-<p align="center">
-  I transform complex business requirements into elegant, high-performance web solutions that drive measurable results.<br/>
-</p>
-
-<hr>
-
-<!-- ====================
     Tech Stack & Tools
 ==================== -->
-<h3 align="center">🛠️ My Production-Ready Tech Stack</h3>
+<h3 align="center">🧰 My Production-Ready Tech Stack</h3>
 
-<p align="center">
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend Stack" />
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,appwrite,npm" alt="Backend Stack" />
-</p>
-
-<p align="center">
-  <strong>DevOps & Deployment</strong><br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vercel,netlify" alt="DevOps Stack" />
-</p>
-
-<p align="center">
-  <strong>Tools & Platforms</strong><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress" alt="Tools & Platforms" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Frontend</strong><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend Stack" />
+    </td>
+    <td align="center">
+      <strong>Backend</strong><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,appwrite,npm&perline=6" alt="Backend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>DevOps & Deployment</strong><br/>
+      <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vercel,netlify&perline=6" alt="DevOps Stack" />
+    </td>
+    <td align="center">
+      <strong>Tools & Platforms</strong><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress&perline=6" alt="Tools & Platforms" />
+    </td>
+  </tr>
+</table>
 <hr>
+
 <!-- ====================
      Connect With Me
 ==================== -->

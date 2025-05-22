@@ -1,5 +1,5 @@
 <!-- ====================
-    GitHub Profile Banner
+     GitHub Profile Banner
 ==================== -->
 <p align="center">
   <img 
@@ -9,9 +9,9 @@
 </p>
 
 <!-- ====================
-    Tech Stack & Tools
+     Tech Stack & Tools
 ==================== -->
-<h3 align="center"> My Tech Stack 👾 </h3>
+<h3 align="center">🛠️ My Tech Stack</h3>
 
 <table align="center">
   <tr>
@@ -35,7 +35,8 @@
     </td>
   </tr>
 </table>
-<hr>
+
+<hr/>
 
 <!-- ====================
      Connect With Me
@@ -43,7 +44,7 @@
 <h3 align="center">🔗 Let's Connect</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/MuhammadTanveerAbbas">
+  <a href="https://linkedin.com/in/MuhammadTanveerAbbas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;

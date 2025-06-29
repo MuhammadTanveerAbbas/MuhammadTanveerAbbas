@@ -11,7 +11,7 @@
 <!-- ====================
      Tech Stack & Tools
 ==================== -->
-<h3 align="center">🛠️ My Tech Stack</h3>
+<h3 align="center">My Tech Stack 🛠️</h3>
 
 <table align="center">
   <tr>
@@ -41,7 +41,7 @@
 <!-- ====================
      Connect With Me
 ==================== -->
-<h3 align="center">🔗 Let's Connect</h3>
+<h3 align="center">Let's Connect 🔗</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/MuhammadTanveerAbbas" target="_blank">

@@ -12,7 +12,6 @@
      Tech Stack & Tools
 ==================== -->
 <h3 align="center">My Tech Stack 🛠️</h3>
-
 <table align="center">
   <tr>
     <td align="center">
@@ -35,14 +34,12 @@
     </td>
   </tr>
 </table>
-
 <hr/>
 
 <!-- ====================
      Connect With Me
 ==================== -->
 <h3 align="center">Let's Connect 🔗</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/MuhammadTanveerAbbas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

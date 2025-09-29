@@ -3,48 +3,67 @@
 ==================== -->
 <p align="center">
   <img 
-    src="https://i.postimg.cc/ZqQK53zq/github-header.png" 
-    alt="Muhammad Tanveer Abbas | GitHub Profile Banner" 
+    src="https://res.cloudinary.com/doowqgrka/image/upload/v1759167310/Github_Readme_Header_wfq7r7.png" 
+    alt="GitHub Profile Banner - Muhammad Tanveer Abbas" 
+    width="90%" 
   />
 </p>
 
 <!-- ====================
      Tech Stack & Tools
 ==================== -->
-<h3 align="center">My Tech Stack 🛠️</h3>
+<h2 align="center">🔑 Trusted Tools & Stacks I Build With</h2>
 <table align="center">
   <tr>
-    <td align="center">
-      <strong>Frontend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="Frontend Stack" />
+    <td align="center" valign="top" width="50%">
+      <strong>Frontend</strong><br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=radixui&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
+      </div>
     </td>
-    <td align="center">
-      <strong>Backend</strong><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,appwrite,npm&perline=6" alt="Backend Stack" />
+    <td align="center" valign="top" width="50%">
+      <strong>Backend & Database</strong><br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Resend-ff4b4b?style=for-the-badge&logo=mailgun&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2d3748?style=for-the-badge&logo=prisma&logoColor=white" />
+      </div>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <strong>DevOps & Deployment</strong><br/>
-      <img src="https://skillicons.dev/icons?i=linux,git,github,githubactions,vercel,netlify&perline=6" alt="DevOps Stack" />
+    <td align="center" valign="top" width="50%">
+      <strong>Payments & Analytics</strong><br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/Stripe-008cdd?style=for-the-badge&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lemon%20Squeezy-FFD700?style=for-the-badge&logo=lemon&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostHog-ff3366?style=for-the-badge&logo=posthog&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Sentry-362d59?style=for-the-badge&logo=sentry&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+      </div>
     </td>
-    <td align="center">
-      <strong>Tools & Platforms</strong><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,webstorm,bash,postman,figma,wordpress&perline=6" alt="Tools & Platforms" />
+    <td align="center" valign="top" width="50%">
+      <strong>DevOps & Enhancement</strong><br/><br/>
+      <div>
+        <img src="https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448c5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+      </div>
+      <div>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </div>
     </td>
   </tr>
 </table>
-<hr/>
 
-<!-- ====================
-     Connect With Me
-==================== -->
-<h3 align="center">Let's Connect 🔗</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/MuhammadTanveerAbbas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:muhammadtanveerabbas.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<hr/>

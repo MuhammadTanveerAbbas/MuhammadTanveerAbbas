@@ -12,11 +12,11 @@
 <!-- ====================
      Tech Stack & Tools
 ==================== -->
-<h2 align="center">🔑 Trusted Tools & Stacks I Build With</h2>
+<h2 align="center">Tech I Use 🤖</h2>
 <table align="center">
   <tr>
     <td align="center" valign="top" width="50%">
-      <strong>Frontend</strong><br/><br/>
+      <strong>Frontend 🎨</strong><br/><br/>
       <div>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,7 +26,7 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <strong>Backend & Database</strong><br/><br/>
+      <strong>Backend & Database 🛠️</strong><br/><br/>
       <div>
         <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
-      <strong>Payments & Analytics</strong><br/><br/>
+      <strong>Payments & Analytics 💳📊</strong><br/><br/>
       <div>
         <img src="https://img.shields.io/badge/Stripe-008cdd?style=for-the-badge&logo=stripe&logoColor=white" />
         <img src="https://img.shields.io/badge/Lemon%20Squeezy-FFD700?style=for-the-badge&logo=lemon&logoColor=black" />
@@ -52,10 +52,10 @@
       </div>
     </td>
     <td align="center" valign="top" width="50%">
-      <strong>DevOps & Enhancement</strong><br/><br/>
+      <strong>DevOps ⚙️🚀</strong><br/><br/>
       <div>
         <img src="https://img.shields.io/badge/Zod-3066BE?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055ff?style=for-the-badge&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudinary-3448c5?style=for-the-badge&logo=cloudinary&logoColor=white" />
       </div>
       <div>

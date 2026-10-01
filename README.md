@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://res.cloudinary.com/doowqgrka/image/upload/v1759167310/Github_Readme_Header_wfq7r7.png" 
+    src="https://res.cloudinary.com/doowqgrka/image/upload/v1790861283/github-header-banner_qbd2mq.png" 
     alt="GitHub Profile Banner - Muhammad Tanveer Abbas" 
     width="90%" 
   />
